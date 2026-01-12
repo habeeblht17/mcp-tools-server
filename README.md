@@ -428,8 +428,7 @@ This project is open source and available under the MIT License.
 
 ## 👤 Author
 
-Your Name - AI Engineering Mentorship Program
-January 2026
+Your Name - Habeeb Temitope Lawal
 
 ## 🙏 Acknowledgments
 
